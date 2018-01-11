@@ -21,7 +21,7 @@ namespace CommandCenter_search
         [ClassInitialize]
         public static void Setup(TestContext context)
         {
-            driver = new ChromeDriver(@"C:\Users\abhiband1\Documents\drivers\");
+            driver = new ChromeDriver();
             driver.Navigate().GoToUrl("https://stg.command.satori.com/");
             driver.Manage().Window.Maximize();
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(7);
@@ -362,7 +362,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-        [TestCategory("Selenium")]
+        [TestCategory("Selenium")]  
 
         public void SearchNEXRoute()
         {
