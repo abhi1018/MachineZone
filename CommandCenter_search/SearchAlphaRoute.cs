@@ -9,6 +9,7 @@ using OpenQA.Selenium.Support.UI;
 namespace CommandCenter_search
 {
     [TestClass]
+
     //suite ID: 21177
 
     public class SearchAlphaRoute
@@ -39,7 +40,7 @@ namespace CommandCenter_search
         //Inner Route
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchInnerRoute()
         {
@@ -51,7 +52,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
         public void SearchINNERRoute()
         {
             
@@ -64,6 +65,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
+        [TestCategory("Selenium")]
 
         public void SearchinnerRoute()
         {
@@ -77,7 +79,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
         public void SearchinnRoute()
         {
 
@@ -91,7 +93,7 @@ namespace CommandCenter_search
 
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
         public void SearchINNRoute()
         {
 
@@ -105,7 +107,7 @@ namespace CommandCenter_search
 
         //Outer route
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchOuterRoute()
         {
@@ -119,7 +121,7 @@ namespace CommandCenter_search
 
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchOUTERRoute()
         {
@@ -134,7 +136,7 @@ namespace CommandCenter_search
 
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchouterRoute()
         {
@@ -149,7 +151,7 @@ namespace CommandCenter_search
 
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchoutRoute()
         {
@@ -164,7 +166,7 @@ namespace CommandCenter_search
 
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchOUTRoute()
         {
@@ -180,7 +182,7 @@ namespace CommandCenter_search
         //City Link
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchCityRoute()
         {
@@ -193,7 +195,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchCITYRoute()
         {
@@ -207,7 +209,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchcityRoute()
         {
@@ -221,7 +223,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchctyRoute()
         {
@@ -235,7 +237,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchCTYRoute()
         {
@@ -251,7 +253,7 @@ namespace CommandCenter_search
         //Sky Bus service
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchSkybusRoute()
         {
@@ -264,7 +266,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchSKYBUSRoute()
         {
@@ -278,7 +280,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchskybusRoute()
         {
@@ -292,7 +294,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchskyRoute()
         {
@@ -306,7 +308,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchSKYRoute()
         {
@@ -322,7 +324,7 @@ namespace CommandCenter_search
 
         [TestMethod]
 
-
+        [TestCategory("Selenium")]
         public void SearchNortherExpressRoute()
         {
 
@@ -334,7 +336,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchnortherexpressRoute()
         {
@@ -347,7 +349,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchNexRoute()
         {
@@ -360,7 +362,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchNEXRoute()
         {
@@ -373,7 +375,7 @@ namespace CommandCenter_search
         }
 
         [TestMethod]
-
+        [TestCategory("Selenium")]
 
         public void SearchnexRoute()
         {
